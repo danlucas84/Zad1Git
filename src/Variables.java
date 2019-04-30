@@ -1,5 +1,12 @@
 public class Variables {
     public static void main(String[] args) {
+
+        String firstName = "Jan";
+        String lastName = "Kowalski";
+        int age;
+        double height;
+        String pesel;
+
         System.out.println("Jan Kowalski ma 25 lat");
         System.out.println("PESEL Jana Kowalskiego to 1234567890" );
         System.out.println("Jan Kowalski ma 180 cm wzrostu");
